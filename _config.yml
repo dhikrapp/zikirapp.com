@@ -43,8 +43,7 @@ app:
 # Marketing
 #
 marketing_header: "Türkiye'nin 1 numaralı zikirmatik uygulaması"  # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+marketing_desc: "Reklamsız, sade, gelişmiş ilk zikirmatik. 100+ milyon zikir çekilerek Türkiye'nin en çok kullanılan zikirmatik uygulaması."
 #
 # Social Links
 #
