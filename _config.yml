@@ -42,7 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
+marketing_header: "Türkiye'nin #1 numaralı zikirmatik uygulaması"  # Optional
 marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 #
@@ -52,11 +52,11 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 #
 social-links:
   github:
-  facebook:
-  twitter:
+  facebook:zikirapp
+  twitter: zikirapp
   pinterest:
   instagram:
-  email:
+  email: support@zikirapp.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Zikir - Zikirmatik uygulaması
+description: Zikir - Zikirmatik uygulaması # Optional - Enter your site description
 
 #
 # Google Analytics
