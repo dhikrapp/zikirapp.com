@@ -6,6 +6,22 @@
     {{ content }}
 
     <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript">
+if(
+  navigator.userAgent.match(/iPhone/i) || 
+  navigator.userAgent.match(/iPad/i) ||
+  navigator.userAgent.match(/Android/i)
+){
+  var url = window.location.href;
+  if (url.indexOf("gclid") > -1){
+  	window.location = "https://download.zikirapp.com/adwords";
+  }
+  
+  else{
+	window.location = "https://download.zikirapp.com/f7DyetpRqK";
+  }
+}
+</script>
     <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> -->
     {% include apple.html %}
     {% include analytics.html %}
