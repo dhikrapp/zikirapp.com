@@ -96,7 +96,7 @@ description: Zikir - Zikirmatik uygulaması # Optional - Enter your site descrip
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-112777100-2 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
