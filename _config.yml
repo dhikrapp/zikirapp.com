@@ -6,7 +6,7 @@
 # General App Info
 #
 app:
-  name: Zikir App # REQUIRED - Enter your app name
+  name: Dhikr App # REQUIRED - Enter your app name
   ios_id: 1330134278 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.zikrapp # Optional - Enter Android app id like: com.example.app
 
@@ -40,7 +40,7 @@ app:
 #
 # Marketing
 #
-marketing_header: "Türkiye'nin 1 numaralı zikirmatik uygulaması"  # Optional
+marketing_header: "The most popular dhikr app in the world. 2000+ reviews. 250M Dhikr"  # Optional
 marketing_desc: "Reklamsız, sade, gelişmiş ilk zikirmatik. 100+ milyon zikir çekilerek Türkiye'nin en çok kullanılan zikirmatik uygulaması."
 #
 # Social Links
@@ -90,8 +90,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Zikir - Zikirmatik uygulaması
-description: Zikir - Zikirmatik uygulaması # Optional - Enter your site description
+title: Dhikr app
+description: The most used dhikr app in the world. # Optional - Enter your site description
 
 #
 # Google Analytics
